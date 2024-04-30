@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+@font-face {
+    font-family: 'Museo Moderno';
+    src: 
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-Black.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-BlackItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-Bold.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-BoldItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-ExtraBold.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-ExtraBoldItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-ExtraLight.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-ExtraLightItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-Light.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-LightItalic.ttf'),
+    url('./assets/fonts/MuseoModerno/MuseoModerno-Medium.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-MediumItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-Regular.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-SemiBold.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-SemiBoldItalic.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-Thin.ttf'),
+    // url('./assets/fonts/MuseoModerno/MuseoModerno-ThinItalic.ttf'),
+    ;
+}
+
+body, html, div[data-js="root"] {
+    height: 100%;
+    position: relative;
+    // background-color: #1e1e1e;
+}
+
+.bordered {
+    border: 1px solid rgb(175, 175, 175) !important;
+    border-radius: 4px !important;
+}
